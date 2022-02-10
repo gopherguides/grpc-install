@@ -7,7 +7,7 @@ Installing all the tools you need for gRPC can be difficult.  This repo strives 
 Clone this library:
 
 ```sh
-git clone https://github.com/gopherguides/grpc-install
+git clone https://github.com/gopherguides/grpc-install.git
 ```
 
 CD into the project directory:
